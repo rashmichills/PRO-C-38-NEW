@@ -1,1 +1,2 @@
-# PRO-C-38-NEW
+# trex
+Chrome's trex game created using p5.play
